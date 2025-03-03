@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our School Project</h1>
+        <h1>Welcome to Project Milestone #1</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -22,7 +22,7 @@
     </header>
     <section>
         <h2>Introduction</h2>
-        <p>Welcome to our school project website! Here, we explore two important topics that impact our daily lives. Click on the topic pages to learn more!</p>
+        <p>Welcome to project Milestone #1 website! Here, we explore two important topics that impact our daily lives. Click on the topic pages to learn more!</p>
     </section>
     <footer>
         <p>&copy; 2025 School Project</p>
