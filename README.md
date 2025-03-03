@@ -1,6 +1,4 @@
 # IT3203
-<!-- index.html (Home Page) -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,8 +28,6 @@
 </body>
 </html>
 
-<!-- topic1.html (First Topic Page) -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -70,8 +66,6 @@
 </body>
 </html>
 
-<!-- topic2.html (Second Topic Page) -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -110,8 +104,6 @@
 </body>
 </html>
 
-<!-- resources.html (Resources Page) -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
