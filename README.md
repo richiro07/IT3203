@@ -1,4 +1,6 @@
 # IT3203
+<!-- index.html (Home Page) -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,18 +11,10 @@
 <body>
     <header>
         <h1>Welcome to Project Milestone #1</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="topic1.html">Topic 1</a></li>
-                <li><a href="topic2.html">Topic 2</a></li>
-                <li><a href="resources.html">Resources</a></li>
-            </ul>
-        </nav>
     </header>
     <section>
-        <h2>Introduction</h2>
-        <p>Welcome to project Milestone #1 website! Here, we explore two important topics that impact our daily lives. Click on the topic pages to learn more!</p>
+        <h2>Project Milestone #1</h2>
+        <p>This project serves as an exploration of two major topics: Climate Change and Artificial Intelligence. The goal is to provide key insights and information about these subjects in an organized and engaging manner.</p>
     </section>
     <footer>
         <p>&copy; 2025 School Project</p>
@@ -28,6 +22,8 @@
 </body>
 </html>
 
+<!-- topic1.html (Climate Change Page) -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -38,14 +34,6 @@
 <body>
     <header>
         <h1>Climate Change</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="topic1.html">Climate Change</a></li>
-                <li><a href="topic2.html">Artificial Intelligence</a></li>
-                <li><a href="resources.html">Resources</a></li>
-            </ul>
-        </nav>
     </header>
     <section>
         <h2>Understanding Climate Change</h2>
@@ -66,6 +54,8 @@
 </body>
 </html>
 
+<!-- topic2.html (Artificial Intelligence Page) -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,14 +66,6 @@
 <body>
     <header>
         <h1>Artificial Intelligence</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="topic1.html">Climate Change</a></li>
-                <li><a href="topic2.html">Artificial Intelligence</a></li>
-                <li><a href="resources.html">Resources</a></li>
-            </ul>
-        </nav>
     </header>
     <section>
         <h2>What is Artificial Intelligence?</h2>
@@ -104,6 +86,8 @@
 </body>
 </html>
 
+<!-- resources.html (Resources Page) -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -116,10 +100,8 @@
         <h1>Resources</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
                 <li><a href="topic1.html">Climate Change</a></li>
                 <li><a href="topic2.html">Artificial Intelligence</a></li>
-                <li><a href="resources.html">Resources</a></li>
             </ul>
         </nav>
     </header>
