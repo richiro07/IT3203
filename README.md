@@ -98,13 +98,18 @@
 <body>
     <header>
         <h1>Resources</h1>
-        <nav>
-            <ul>
-                <li><a href="topic1.html">Climate Change</a></li>
-                <li><a href="topic2.html">Artificial Intelligence</a></li>
-            </ul>
-        </nav>
-    </header>
+        <header>
+    <h1>Welcome to Project Milestone #1</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="topic1.html">Climate Change</a></li>
+            <li><a href="topic2.html">Artificial Intelligence</a></li>
+            <li><a href="resources.html">Resources</a></li>
+            <li><a href="quiz.html">Quiz</a></li>
+        </ul>
+    </nav>    
+</header>
     <section>
         <h2>Useful Links</h2>
         <p>Here are some reference materials for further reading:</p>
